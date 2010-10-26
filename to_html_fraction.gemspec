@@ -23,10 +23,12 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "init.rb",
      "lib/to_html_fraction.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb",
-     "spec/to_html_fraction_spec.rb"
+     "spec/to_html_fraction_spec.rb",
+     "to_html_fraction.gemspec"
   ]
   s.homepage = %q{http://github.com/toreyheinz/to_html_fraction}
   s.rdoc_options = ["--charset=UTF-8"]
