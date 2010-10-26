@@ -1,6 +1,10 @@
 = to_html_fraction
 
-Description goes here.
+Originally take from here http://snippets.dzone.com/posts/show/2323
+
+Added some tests and turned it into a gem.
+
+Also updated it so that it will round decimals to nearest 1/16th, because I never have need for fractions like 1/3, 3/5.
 
 == Note on Patches/Pull Requests
  
