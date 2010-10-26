@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "to_html_fraction"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Convert fractional floats to html fractions}
+    gem.description = %Q{Convert fractional floats to html fractions}
     gem.email = "toreyheinz@gmail.com"
     gem.homepage = "http://github.com/toreyheinz/to_html_fraction"
     gem.authors = ["Torey Heinz"]
